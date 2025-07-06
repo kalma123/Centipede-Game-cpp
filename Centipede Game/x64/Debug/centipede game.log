@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(73,33): warning C4129: 'B': unrecognized character escape sequence
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(75,57): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(151,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(151,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(161,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(161,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(500,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(500,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(531,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(531,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(543,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(543,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(573,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(574,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(614,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\Desktop\PROjects\Centipede Game\main.cpp(615,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  LINK : C:\Users\Dell\Desktop\PROjects\Centipede Game\x64\Debug\centipede game.exe not found or not built by the last incremental link; performing full link
+  centipede game.vcxproj -> C:\Users\Dell\Desktop\PROjects\Centipede Game\x64\Debug\centipede game.exe
